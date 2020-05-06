@@ -1,0 +1,254 @@
+﻿By26
+-Caravaggio,pagazzano,brignano gera d'adda,vidalengo,castel rozzone,
+by27
+-brembate sopra,almenno san bartolomeo,barzana,gromlongo,ghiaie
+by30/q3
+-ponte nossa,ponte selva,parre,valbondione,piario,villa d'ogna,ardesio,gromo,gorno,spiazzi,gandellino,fiumenero,lizzola
+by31
+-grassobbio(via serio,via matteotti)brusaporto,bagnatica
+by32
+-telgate,chiuduno,bolgare,mornico al serio,palosco
+
+	
+   
+   
+ 
+   5.		668	8,32	80	432
+   6.		5.538	2,00	2.769	294
+   7.		6.295	10,61	593	352
+   8.		5.674	4,73	1.199	328
+   9.		13.655	13,68	998	304
+ 10.		2.370	3,28	724	261
+ 11.		3.258	9,73	335	112
+ 12.		4.849	4,35	1.115	152
+ 13.		3.458	54,44	64	608
+ 14.	Arzago d'Adda	2.711	9,31	291	106
+ 15.	Averara	181	10,69	17	650
+ 16.	Aviatico	563	8,49	66	1.022
+ 17.	Azzano San Paolo	7.597	4,29	1.770	230
+ 18.	Azzone	389	17,29	22	973
+ 19.	Bagnatica	4.358	6,55	665	220
+ 20.	Barbata	698	7,98	87	105
+ 21.	Bariano	4.250	7,07	601	114
+ 22.	Barzana	1.984	2,07	956	300
+ 23.	Bedulita	725	4,27	170	600
+ 24.	Berbenno	2.385	6,14	388	675
+ 25.	BERGAMO	121.639	40,16	3.029	249
+ 26.	Berzo San Fermo	1.386	5,86	236	350
+ 27.	Bianzano	604	6,67	91	600
+ 28.	Blello	75	2,20	34	815
+ 29.	Bolgare	6.309	8,59	734	199
+ 30.	Boltiere	6.176	4,21	1.468	171
+ 31.	Bonate Sopra	10.085	6,15	1.640	230
+ 32.	Bonate Sotto	6.683	6,47	1.033	215
+ 33.	Borgo di Terzo	1.177	1,83	643	300
+ 34.	Bossico	986	7,09	139	860
+ 35.	Bottanuco	5.151	5,77	892	222
+ 36.	Bracca	692	5,47	127	620
+ 37.	Branzi	711	26,19	27	874
+ 38.	Brembate	8.562	5,54	1.547	173
+ 39.	Brembate di Sopra	7.852	4,14	1.897	267
+ 40.	Brignano Gera d'Adda	6.008	12,11	496	130
+ 41.	Brumano	116	8,14	14	911
+ 42.	Brusaporto	5.627	4,99	1.127	255
+ 43.	Calcinate	6.013	15,08	399	186
+ 44.	Calcio	5.375	15,67	343	123
+ 45.	Calusco d'Adda	8.333	8,33	1.000	273
+ 46.	Calvenzano	4.262	6,72	634	113
+ 47.	Camerata Cornello	606	12,94	47	570
+ 48.	Canonica d'Adda	4.438	3,21	1.385	142
+ 49.	Capizzone	1.241	4,68	265	454
+ 50.	Capriate San Gervasio	8.158	5,78	1.411	190
+ 51.	Caprino Bergamasco	3.072	8,78	350	315
+ 52.	Caravaggio	16.259	33,39	487	111
+ 53.	Carobbio degli Angeli	4.738	6,82	695	232
+ 54.	Carona	304	44,15	6,88	1.110
+ 55.	Carvico	4.695	4,59	1.023	287
+ 56.	Casazza	4.031	7,11	567	349
+ 57.	Casirate d'Adda	4.117	10,17	405	114
+ 58.	Casnigo	3.251	13,62	239	514
+ 59.	Cassiglio	108	13,68	7,90	602
+ 60.	Castel Rozzone	2.820	1,71	1.652	140
+ 61.	Castelli Calepio	10.432	10,15	1.027	230
+ 62.	Castione della P.	3.419	42,50	80	870
+ 63.	Castro	1.299	2,59	502	200
+ 64.	Cavernago	2.639	7,65	345	199
+ 65.	Cazzano Sant'Andrea	1.661	2,02	820	504
+ 66.	Cenate Sopra	2.545	6,97	365	330
+ 67.	Cenate Sotto	3.875	4,62	839	267
+ 68.	Cene	4.263	8,60	496	368
+ 69.	Cerete	1.605	14,07	114	612
+ 70.	Chignolo d'Isola	3.474	5,55	626	229
+ 71.	Chiuduno	6.108	6,88	887	218
+ 72.	Cisano Bergamasco	6.318	7,82	808	267
+ 73.	Ciserano	5.560	5,31	1.048	159
+ 74.	Cividate al Piano	5.176	9,73	532	147
+ 75.	Clusone	8.607	26,19	329	648
+ 76.	Colere	1.120	18,63	60	1.013
+ 77.	Cologno al Serio	11.184	18,52	604	156
+ 78.	Colzate	1.664	6,75	247	424
+ 79.	Comun Nuovo	4.419	6,45	686	188
+ 80.	Corna Imagna	925	4,50	205	736
+ 81.	Cornalba	300	9,25	32	893
+ 82.	Cortenuova	1.932	7,35	263	133
+ 83.	Costa di Mezzate	3.391	5,22	649	218
+ 84.	Costa Serina	900	12,30	73	868
+ 85.	Costa Valle Imagna	576	4,21	137	1.014
+ 86.	Costa Volpino	9.063	18,67	486	248
+ 87.	Covo	4.109	12,94	317	115
+ 88.	Credaro	3.497	3,41	1.024	225
+ 89.	Curno	7.534	4,70	1.601	244
+ 90.	Cusio	238	9,41	25	1.040
+ 91.	Dalmine	23.610	11,81	2.000	207
+ 92.	Dossena	908	19,56	46	986
+ 93.	Endine Gaiano	3.435	21,07	163	382
+ 94.	Entratico	1.999	4,15	482	299
+ 95.	Fara Gera d'Adda	8.024	10,79	743	131
+ 96.	Fara Olivana con Sola	1.293	5,04	257	107
+ 97.	Filago	3.132	5,42	578	190
+ 98.	Fino del Monte	1.130	4,29	264	700
+ 99.	Fiorano al Serio	2.987	1,06	2.818	396
+100.	Fontanella	4.492	17,80	252	105
+101.	Fonteno	587	10,93	54	606
+102.	Foppolo	186	16,14	12	1.508
+103.	Foresto Sparso	3.119	7,87	396	346
+104.	Fornovo San Giovanni	3.436	7,04	488	109
+105.	Fuipiano Valle Imagna	210	4,28	49	1.019
+106.	Gandellino	992	25,13	39	682
+107.	Gandino	5.386	29,03	186	552
+108.	Gandosso	1.457	3,13	466	488
+109.	Gaverina Terme	855	5,20	165	509
+110.	Gazzaniga	5.018	14,41	348	386
+111.	Ghisalba	6.173	10,59	583	170
+112.	Gorlago	5.172	5,70	908	233
+113.	Gorle	6.519	2,52	2.587	268
+114.	Gorno	1.554	10,00	155	710
+115.	Grassobbio	6.460	8,74	739	225
+116.	Gromo	1.201	20,07	60	676
+117.	Grone	912	7,78	117	388
+118.	Grumello del Monte	7.411	9,94	746	208
+119.	Isola di Fondra	173	12,83	13	799
+120.	Isso	654	5,06	129	104
+121.	Lallio	4.082	2,16	1.893	216
+122.	Leffe	4.421	6,69	661	454
+123.	Lenna	598	12,74	47	482
+124.	Levate	3.765	5,53	681	185
+125.	Locatello	812	3,79	214	557
+126.	Lovere	5.193	7,92	655	208
+127.	Lurano	2.847	4,05	703	147
+128.	Luzzana	896	3,48	257	310
+129.	Madone	4.002	3,07	1.304	202
+130.	Mapello	6.825	8,66	788	250
+131.	Martinengo	10.647	22,05	483	149
+132.	Medolago	2.415	3,80	636	246
+133.	Mezzoldo	161	18,84	8,55	835
+134.	Misano di Gera d'Adda	2.991	6,11	490	104
+135.	Moio de' Calvi	205	6,36	32	654
+136.	Monasterolo del C.	1.148	8,75	131	365
+137.	Montello	3.288	1,82	1.811	229
+138.	Morengo	2.527	9,57	264	126
+139.	Mornico al Serio	2.960	6,92	428	162
+140.	Mozzanica	4.533	9,46	479	102
+141.	Mozzo	7.470	3,64	2.051	252
+142.	Nembro	11.526	15,24	757	309
+143.	Olmo al Brembo	497	7,90	63	556
+144.	Oltre il Colle	1.008	32,89	31	1.030
+145.	Oltressenda Alta	148	17,33	8,54	737
+146.	Oneta	588	18,66	32	740
+147.	Onore	908	11,78	77	700
+148.	Orio al Serio	1.746	3,04	574	241
+149.	Ornica	148	15,10	9,80	922
+150.	Osio Sopra	5.300	5,18	1.023	192
+151.	Osio Sotto	12.555	7,59	1.655	182
+152.	Pagazzano	2.097	5,24	401	126
+153.	Paladina	4.063	2,09	1.947	272
+154.	Palazzago	4.488	13,96	321	397
+155.	Palosco	5.756	10,79	533	157
+156.	Parre	2.725	22,28	122	640
+157.	Parzanica	352	9,82	36	753
+158.	Pedrengo	6.022	3,60	1.673	262
+159.	Peia	1.792	4,48	400	570
+160.	Pianico	1.436	2,70	531	328
+161.	Piario	1.065	1,55	689	539
+162.	Piazza Brembana	1.205	6,77	178	536
+163.	Piazzatorre	387	24,24	16	868
+164.	Piazzolo	88	4,15	21	702
+165.	Pognano	1.610	3,29	490	157
+166.	Ponte Nossa	1.800	5,59	322	465
+167.	Ponte San Pietro	11.579	4,59	2.525	224
+168.	Ponteranica	6.821	8,48	805	381
+169.	Pontida	3.377	10,38	325	310
+170.	Pontirolo Nuovo	4.999	11,10	450	155
+171.	Pradalunga	4.630	8,20	565	327
+172.	Predore	1.857	10,96	169	190
+173.	Premolo	1.112	17,63	63	625
+174.	Presezzo	4.943	2,28	2.166	236
+175.	Pumenengo	1.722	10,12	170	106
+176.	Ranica	5.956	4,06	1.466	293
+177.	Ranzanico	1.229	7,21	170	519
+178.	Riva di Solto	922	8,52	108	186
+179.	Rogno	3.866	15,81	245	215
+180.	Romano di Lombardia	20.625	19,38	1.064	120
+181.	Roncobello	429	25,39	17	1.007
+182.	Roncola	767	5,07	151	850
+183.	Rota d'Imagna	914	6,03	152	690
+184.	Rovetta	4.171	24,53	170	658
+185.	San Giovanni Bianco	4.765	31,03	154	408
+186.	San Paolo d'Argon	5.824	5,25	1.110	255
+187.	San Pellegrino Terme	4.806	22,95	209	358
+188.	Sant'Omobono Terme	3.891	16,43	237	427
+189.	Santa Brigida	542	13,80	39	805
+190.	Sarnico	6.756	6,66	1.014	197
+191.	Scanzorosciate	10.011	10,69	937	279
+192.	Schilpario	1.157	63,97	18	1.124
+193.	Sedrina	2.493	5,85	426	328
+194.	Selvino	2.035	6,53	312	960
+195.	Seriate	25.385	12,53	2.026	247
+196.	Serina	2.066	27,34	76	820
+197.	Solto Collina	1.794	11,76	153	449
+198.	Solza	2.039	1,23	1.661	254
+199.	Songavazzo	722	12,94	56	640
+200.	Sorisole	9.139	12,25	746	415
+201.	Sotto il Monte G. XXIII	4.516	5,02	899	291
+202.	Sovere	5.324	18,02	295	379
+203.	Spinone al Lago	1.010	1,97	512	360
+204.	Spirano	5.802	9,61	604	154
+205.	Stezzano	13.234	9,37	1.412	211
+206.	Strozza	1.068	3,83	279	378
+207.	Suisio	3.816	4,54	840	234
+208.	Taleggio	545	47,13	12	758
+209.	Tavernola Bergamasca	2.026	11,17	181	191
+210.	Telgate	5.068	8,30	610	191
+211.	Terno d'Isola	8.062	4,13	1.951	229
+212.	Torre Boldone	8.777	3,48	2.519	280
+213.	Torre de' Busi	2.126	8,97	237	472
+214.	Torre de' Roveri	2.478	2,69	921	271
+215.	Torre Pallavicina	1.082	10,62	102	95
+216.	Trescore Balneario	9.765	13,51	723	305
+217.	Treviglio	30.092	32,22	934	125
+218.	Treviolo	10.890	8,49	1.283	225
+219.	Ubiale Clanezzo	1.384	7,35	188	336
+220.	Urgnano	9.984	14,78	676	173
+221.	Val Brembilla	4.293	31,44	137	425
+222.	Valbondione	1.032	96,89	11	900
+223.	Valbrembo	4.319	3,80	1.138	261
+224.	Valgoglio	601	31,89	19	929
+225.	Valleve	134	14,76	9,08	1.141
+226.	Valnegra	212	2,23	95	581
+227.	Valtorta	267	30,90	8,64	935
+228.	Vedeseta	207	19,29	11	820
+229.	Verdellino	7.563	3,82	1.979	172
+230.	Verdello	8.070	7,34	1.099	173
+231.	Vertova	4.587	15,69	292	397
+232.	Viadanica	1.137	5,45	209	336
+233.	Vigano San Martino	1.354	3,76	360	363
+234.	Vigolo	580	12,31	47	616
+235.	Villa d'Adda	4.687	5,98	783	286
+236.	Villa d'Almè	6.667	6,49	1.028	300
+237.	Villa d'Ogna	1.849	5,16	358	542
+238.	Villa di Serio	6.780	4,60	1.473	275
+239.	Villongo	8.188	6,04	1.355	230
+240.	Vilminore di Scalve	1.458	41,00	36	1.019
+241.	Zandobbio	2.760	6,43	429	278
+242.	Zanica	8.739	14,95	584	208
+243.	Zogno
